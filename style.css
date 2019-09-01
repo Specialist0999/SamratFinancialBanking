@@ -1,0 +1,245 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    //font-weight: lighter;
+}
+
+h1 {
+    
+}
+
+.bt {
+    height: 75px;
+}
+
+.bt2 {
+    height: 75px;
+    padding-top: 20px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 300;
+
+}
+
+.content {
+    background-image: url(Images/cover1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.nav0 {
+    height: 75px; 
+    border-bottom: solid thin white;
+}
+
+
+li.dropdown {
+    position: static; 
+}
+
+.dropdown-menu {
+    width: auto;
+    color: gainsboro;
+    
+}
+
+.dropdown-menu li {
+    display: inline-block;
+    height: 40px;
+}
+
+
+.brand {
+    font-size: 24px;
+    display: block;
+    color: red;
+}
+
+.brandline {
+    //color: white;    
+    font-size: 16px;
+    display: block;
+}
+
+.d {
+    position: relative;
+}
+
+.glyph {
+    top:0;
+    right: 10%;
+    width: 50px;
+    position: absolute;    
+    
+}
+
+.features {
+    background-color: gainsboro;
+    padding: 20px;
+}
+
+.b {
+    position: relative;
+    padding: 110px 10px 0 10px;
+}
+
+.b:hover {
+    opacity: 0.7;
+}
+
+.px2 {
+    width: 80%;
+}
+
+.ficons {
+    position: absolute;
+    left:20px;
+    top: 20px;
+    height: 80px;
+    width: auto;
+}
+
+
+.mob{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.main {
+    font-weight: lighter;
+    color : white;
+    
+}
+.main b {
+    font-size: 40px;
+    font-weight: 600;
+    color : white;
+}
+
+.main b:hover {
+    color : red;
+}
+
+.cover {
+    //background:	rgba(240,240,240,1);
+    background-image: url(Images/cover1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+.card-body {
+    
+    background-color: lavender;
+}
+
+.move{
+    font-weight: lighter;
+    color : white;    
+}
+
+.move:hover {
+    transform: translate(80px);
+    transition-duration: 2s;
+}
+
+.glyph1 {
+    top:0;
+    right: 10px;
+    width: 50px;
+    position: absolute;
+}
+.c { 
+    position: relative;
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 220px;
+    color: darkkhaki;
+    text-decoration-style: solid;
+    text-emphasis: filled;
+    text-decoration-line: underline;
+    
+}  
+
+.c1 { 
+    position: relative;
+    font-size: 50px;    
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 250px;
+    color: darkkhaki;
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+}
+
+.arr {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 150px;
+    
+}
+
+.c b {
+    font-weight: 600;
+
+}
+
+.arr1 {
+    position: absolute;
+    top:0;
+    right: 0;
+    width: 150px;
+}
+
+.start {
+}
+
+.starts {
+    width: auto;
+    height: 150px;
+    display: block;
+}
+
+.start h2 {
+    font-weight: lighter;
+    text-align: center;
+}
+
+.pgbtm {
+    background: rgba(30,141,251,1);
+    color:white;
+}
+
+.pgbtm h3,ul {
+    font-weight: lighter;
+
+}
+
+.send {
+    font-weight: lighter;
+    background-color: white;
+    color: black;
+    border-radius: 50%;
+}
+
+.send:hover {
+    background-color: black;
+    color: white;    
+    text-decoration: none;
+
+}
+
+.social {
+    margin-left: 10px;
+}
+
+.social:hover {
+    background:rgba(255,0,0,0.7);
+    border-radius: 50%;
+    
+}
+
